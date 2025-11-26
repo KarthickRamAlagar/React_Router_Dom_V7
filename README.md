@@ -1,16 +1,58 @@
-# React + Vite
+# React Router DOM v7 – Client-Side Navigation Upgrade
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This repository contains an upgraded version of client-side navigation built using React Router DOM v7.
+### The project demonstrates the latest routing patterns, improved navigation APIs, and a cleaner file structure introduced in the v7 release.
 
-Currently, two official plugins are available:
+## 🚀 What’s Included
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Migration from React Router DOM v6 → v7
 
-## React Compiler
+Updated routing structure using the latest APIs
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Client-side navigation with improved performance
 
-## Expanding the ESLint configuration
+Simplified route definitions and cleaner component organization
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Modern React setup with updated best practices
+
+## 🧩 Key Features
+
+createBrowserRouter with enhanced configuration
+
+Nested Routes implementation using the new API
+
+Loader / Action structure (if used)
+
+Better error handling with updated error boundaries
+
+Clean navigation components using <Link> and useNavigate()
+
+## 📦 Tech Stack
+
+React 19+
+
+React Router DOM v7
+
+JavaScript / JSX
+
+Vite or CRA (whichever you're using)
+
+## 📘 Purpose of This Repository
+
+This repo serves as a reference for:
+
+Developers upgrading to React Router v7
+
+Learning the new routing API
+
+Understanding modern client-side navigation patterns
+
+
+## ▶️ How to Run the Project
+```bash
+npm install
+npm run dev   # or npm start
+```
+## ✨ Author
+
+### Maintained by Karthick — focusing on modern frontend development.
