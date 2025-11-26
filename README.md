@@ -13,6 +13,8 @@ npm i react-router-dom
 
 Migration from React Router DOM v6 → v7
 
+lazy and Suspense Loading Concepts
+
 Updated routing structure using the latest APIs
 
 Client-side navigation with improved performance
