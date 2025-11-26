@@ -3,6 +3,12 @@
 ### This repository contains an upgraded version of client-side navigation built using React Router DOM v7.
 ### The project demonstrates the latest routing patterns, improved navigation APIs, and a cleaner file structure introduced in the v7 release.
 
+## Installation Command
+```bash
+npm create vite@latest
+npm i react-router-dom
+```
+
 ## 🚀 What’s Included
 
 Migration from React Router DOM v6 → v7
